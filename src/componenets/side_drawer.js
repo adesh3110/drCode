@@ -37,7 +37,7 @@ function ResponsiveDrawer({ closeSidebar }) {
     <div className='w-60 max-h-full h-full'>
       <div className='max-h-full h-full flex flex-col justify-between '>
         <div>
-          <div className='mx-3'>
+          <div className='mx-3 min-w-10'>
             <img src={logo} alt='logo' />
           </div>
           <div className='my-4'>
@@ -63,7 +63,7 @@ function ResponsiveDrawer({ closeSidebar }) {
           />
           <hr className='divider-solid my-4'></hr>
           <div className='flex justify-between'>
-            <div className='flex my-2'>
+            <div className='flex my-2 min-w-6'>
               <img src={Avatar} alt='Avatar' />
               <p className='text-neutral-1 my-2 mx-2'>Olivia Rhye</p>
             </div>
