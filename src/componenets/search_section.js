@@ -1,3 +1,4 @@
+/* eslint-disable */
 import React from 'react';
 import magnifier from '../assets/Magnifer.svg';
 

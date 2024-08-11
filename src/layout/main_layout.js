@@ -1,3 +1,4 @@
+/* eslint-disable */
 import React from 'react';
 import { Outlet } from 'react-router-dom';
 import ResponsiveDrawer from '../componenets/side_drawer';

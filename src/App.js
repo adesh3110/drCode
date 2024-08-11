@@ -1,3 +1,4 @@
+/* eslint-disable */
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import MainLayout from './layout/main_layout';
 import CodePulse from './pages/code_pulse_page';

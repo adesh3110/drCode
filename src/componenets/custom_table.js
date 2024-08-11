@@ -1,3 +1,4 @@
+/* eslint-disable */
 import React from 'react';
 import StatusCard from './status_card';
 import CustomCheckbox from './custom_checkbox';

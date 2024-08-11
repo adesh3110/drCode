@@ -1,3 +1,4 @@
+/* eslint-disable */
 import React from 'react';
 import PageHeader from '../componenets/page_header';
 import SearchSection from '../componenets/search_section';

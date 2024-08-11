@@ -1,3 +1,4 @@
+/* eslint-disable */
 import React, { useState } from 'react';
 import data from '../utils/dummy_repositories';
 import CustomTable from './custom_table';

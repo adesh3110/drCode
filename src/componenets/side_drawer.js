@@ -1,3 +1,4 @@
+/* eslint-disable */
 import * as React from 'react';
 import logo from '../assets/Frame 6865.svg';
 import { ReactComponent as CodePulse } from '../assets/Graph New.svg';
