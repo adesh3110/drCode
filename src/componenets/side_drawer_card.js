@@ -6,7 +6,7 @@ function SideDrawerCard({ closeSidebar, data }) {
   const { pathname } = location;
   const MyIcon = data.icon;
   const path = data.to;
-  const isActive = pathname == path;
+  const isActive = pathname === path;
 
   return (
     <Link
